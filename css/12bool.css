@@ -134,10 +134,3 @@
 .col-offset-12{
     margin-left: calc((100% / 12) * 12);
 }
-
-.justify-content-center{
-    justify-content: center;
-}
-.align-items-center{
-    align-items: center;
-}
