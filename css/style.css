@@ -15,11 +15,17 @@ body{
     font-size: .8rem;
     
 }
+span{
+    min-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 .row{
     color: white;
-    text-align: center;
-    line-height: 50px;
+    /* text-align: center;
+    line-height: 50px; */
 }
 
 section:nth-child(7), section:nth-child(14){
